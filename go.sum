@@ -1,2 +1,4 @@
+github.com/go-webgpu/goffi v0.6.0 h1:dTBwfzj8CZUW0w0fgeMaYGBrIktK7nzfjMsnSpkSt4Y=
+github.com/go-webgpu/goffi v0.6.0/go.mod h1:wfoxNsJkU+5RFbV1kNN1kunhc1lFHuJKK3zpgx08/uM=
 golang.org/x/sys v0.46.0 h1:noSf2Fq6F8DBgS+LysIkx7rIExoNHJsxOAtPp4rthXw=
 golang.org/x/sys v0.46.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
