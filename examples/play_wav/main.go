@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/gogpu/audio"
+	"github.com/doug/audio"
 )
 
 func main() {

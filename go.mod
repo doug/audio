@@ -1,4 +1,4 @@
-module github.com/gogpu/audio
+module github.com/doug/audio
 
 go 1.25.5
 
